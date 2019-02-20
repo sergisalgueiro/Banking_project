@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1550677972 source:c:\users\vonguch\documents\codeblocks_projects\banking_system\main.cpp
+	<iostream>
+	"Banking.h"
+
+1550678696 c:\users\vonguch\documents\codeblocks_projects\banking_system\banking.h
+	<iostream>
+	<string>
+	<map>
+
+1550678725 source:c:\users\vonguch\documents\codeblocks_projects\banking_system\banking.cpp
+	<iostream>
+	<string>
+	"Banking.h"
+
